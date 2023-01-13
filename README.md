@@ -1,4 +1,6 @@
-Hello! Welcome to my Final Project for my Computing II class at IUPUI.
+## Hello!
+
+Welcome to my Final Project for my Computing II class at IUPUI.
 The requirements for this project were to create a Java program that:
   * demonstrates all concepts of Object-Oriented Programming 
   * has proper implementation of Abstraction (interfaces, abstract classes)
