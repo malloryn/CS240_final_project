@@ -6,7 +6,4 @@ The requirements for this project were to create a Java program that:
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: the folder that contains all program files which house the code
